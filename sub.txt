@@ -25,3 +25,14 @@ trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=ww
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls #🇱🇹 Vilnius 195.66.25.251
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1 #🇱🇹 Vilnius 195.66.25.251
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&type=tcp&allowInsecure=1 #🇱🇹 Vilnius 195.66.25.251
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&type=tcp&path=%2f&allow_insecure=1 #🇱🇹 Vilnius 195.66.25.251
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 153.121.45.139
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 160.16.106.99
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 160.16.106.99
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 160.16.106.99
+trojan://tunnel-astrovpn_officiall@193.124.46.134:8441?security=tls&alpn=http%2F1.1&insecure=1&host=193.124.46.134&headerType=none&type=tcp&allowInsecure=1&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir #🇹🇷 Istanbul 193.124.46.134
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 153.121.45.139
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 160.16.106.99
+trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?sni=www.nintendogames.net&path=%2f #🇯🇵 Tokyo 160.16.72.205
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1 #🇭🇰 Central 58.152.25.253
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1 #🇱🇹 Vilnius 195.66.25.251
